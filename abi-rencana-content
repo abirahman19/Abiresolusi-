@@ -3,7 +3,10 @@ RENCANA KONTEN ABIW
 -Javascript
 *ES6
 *Frameworks Javascript
+  ^angular
+  ^React
 _Struktur Data Besar
 -PHP Frameworks
+  ^laravel
 -Interview
 -Vlogs
